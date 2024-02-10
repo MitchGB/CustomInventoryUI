@@ -1,0 +1,4 @@
+name: CustomInventoryUI
+version: '${project.version}'
+main: com.buby.custominventoryui.CustomInventoryUI
+api-version: 1.20
